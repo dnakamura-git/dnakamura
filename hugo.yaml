@@ -3,6 +3,10 @@ languageCode: en-us
 title: Daisuke Nakamura
 theme: ["PaperMod"]
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   profileMode:
     enabled: true
