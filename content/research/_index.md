@@ -1,7 +1,7 @@
 +++
 date = '2025-04-26T06:58:38+02:00'
 draft = false
-title = 'Projects'
+title = 'Research'
 +++
 
 To be added.
