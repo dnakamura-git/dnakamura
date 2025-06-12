@@ -1,0 +1,36 @@
+baseURL: https://dnakamura-git.github.io/dnakamura/
+languageCode: en-us
+title: Daisuke Nakamura
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "Daisuke Nakamura"
+    subtitle: "University of Vienna | Communication Science"
+    imageUrl: "images/profile.jpg"
+
+  socialIcons:
+    - name: "bluesky"
+      url: "https://bsky.app/profile/daisukenakamura.bsky.social"
+
+    - name: "github"
+      url: "https://github.com/dnakamura-git"
+      
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/daisukeh-nakamura/"
+
+menu:
+  main:
+    - identifier: "Bio"
+      name: "Bio"
+      url: "/Bio/"
+      weight: 1
+    - identifier: "cv"
+      name: "CV"
+      url: "/cv/"
+      weight: 2
+    - identifier: "projects"
+      name: "Projects"
+      url: "/projects/"
+      weight: 3
